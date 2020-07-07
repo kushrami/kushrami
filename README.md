@@ -1,7 +1,9 @@
 # kushrami
 My README
 
-SDE @ Boeing, Former Intern @ ARM, Masters in Embedded, startup guy(IoT), telecom engineer, Bechlore in ECE, child.
+Basically : An engineer. But,
+
+SDE @ Boeing, Former Intern @ ARM, Masters in Embedded, startup guy(IoT), telecom engineer, Bachelor in ECE, child.
 
 Always intrested in making hardware projects. Robots, Drones, Advanced Technology.
 
