@@ -10,6 +10,6 @@ Always intrested in making hardware projects. Robots, Drones, Advanced Technolog
 Ask about: Movies, series, Books, Cooking, youtube, music, storytelling, part of idealab, 
 traveling, photography, blogging ( https://kushrami.wordpress.com ) , making jokes
 
-Funfact: Always torn between software & hardware jobs.
+I donno why i m constantly torn between software & hardware jobs.
 
 Last release : 4.8.94
