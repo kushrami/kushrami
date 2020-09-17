@@ -14,6 +14,6 @@ I donno why i m constantly torn between software & hardware jobs.
 
 One of the funny achivement is: if you google my name (kushrami or kush rami). It shows results about me & photos of me.
 
-I have watched lots of movies and series and read lots of books. So please ask if any recommendation is required.
+Fossee IIT bombay project : https://tbc-python.fossee.in/book-details/704/
 
 Contact : https://twitter.com/kushrami
