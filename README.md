@@ -1,11 +1,13 @@
 # kushrami
 My Story:
 
-Basically : An engineer. But,
+Basically : An engineer. And i like to build things.
+
+But,
 
 SDE @ Boeing, Former Intern @ ARM, Masters in Embedded, startup guy(IoT), telecom engineer, Bachelor in ECE, child.
 
-Always intrested in making hardware projects. Robots, Drones, Advanced Technology AI/ML/DL.
+Always intrested in making hardware/software projects. Robots, Drones, Advanced Technology AI/ML/DL.
 
 Ask about: Movies, series, Books, Cooking, youtube, music, storytelling, part of idealab, 
 traveling, photography, blogging ( https://kushrami.wordpress.com )
