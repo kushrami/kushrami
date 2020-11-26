@@ -9,7 +9,7 @@ SDE @ Boeing, Former Intern @ ARM, Masters in Embedded, startup guy(IoT), teleco
 
 Always intrested in making hardware/software projects. Robots, Drones, Advanced Technology AI/ML/DL.
 
-Ask about: Movies, series, Books, Cooking, youtube, music, storytelling, part of idealab, 
+Ask me about: Movies, series, Books, Cooking, youtube, music, storytelling, part of idealab, 
 traveling, photography, blogging ( https://kushrami.wordpress.com )
 
 I donno why i m constantly torn between software & hardware jobs. But love working in both the domain.
