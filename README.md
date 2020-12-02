@@ -17,7 +17,7 @@ Very much intrested in designing CPU/GPU/TPU/accelerators .
 
 Fossee IIT bombay project : https://tbc-python.fossee.in/book-details/704/
 
-Demo videos: https://www.youtube.com/channel/UCRxqOt3QcBQPFE-dz1cpK8g?view_as=subscriber
+My project's Demo videos on youtube: https://www.youtube.com/channel/UCRxqOt3QcBQPFE-dz1cpK8g?view_as=subscriber
 
 Contact : 
 https://twitter.com/kushrami
