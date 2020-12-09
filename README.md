@@ -1,7 +1,7 @@
 # kushrami
 My Story:
 
-Basically : An engineer. And i love building things.
+Basically : An engineer, I love building things.
 
 But,
 
