@@ -5,9 +5,11 @@ Basically : An engineer. And i love building things.
 
 But,
 
-SDE @ Boeing, Former Intern @ ARM, Masters in Embedded, startup guy(IoT), telecom engineer, Bachelor in ECE, child.
+Samsung R&D, SDE @ Boeing, Former Intern @ ARM, Masters in Embedded, startup guy(IoT), telecom engineer, Bachelor in ECE, child.
 
 Always intrested in making hardware/software projects. Robots, Drones, Advanced Technology AI/ML/DL.
+
+Knowledge tree : Python, C, Digital System Design, Verilog, System Verilog(Basic), UVM(Basic), CPU Architechture, ARM-AMBA-AXI, Linux,  RUST, Raspberry Pi, Arduino, ESP, RTOS- Embedded system,
 
 Ask me about: Movies, series, Books, Cooking, youtube, music, storytelling, part of idealab, 
 traveling, photography, blogging ( https://kushrami.wordpress.com )
