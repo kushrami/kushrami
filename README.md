@@ -17,9 +17,10 @@ Books Read:
 1. 7 mindsets sets for success, happiness and fullfillment, by swami mukundanand
 2. My life - autobiography, By Dr. APJ abdul kalam
 3. Ignited Minds - By Dr. APJ abdul kalam
-4. How i truned my dreams into reality - By Dr. APJ abdul kalam
+4. My Journey: Transforming Dreams into Actions - By Dr. APJ abdul kalam
 5. the kite runner - by khalid hossini
 6. Harry Potter - 1 - 6
+7. The war of art - By steven Pressfield
 A lot more to come.
 
 I donno why i m constantly torn between software & hardware jobs. But love working in both the domain.
